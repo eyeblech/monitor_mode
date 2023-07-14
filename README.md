@@ -21,6 +21,9 @@
  #finding network interface name and don't use the [ ] sign while executing 
 
   ifconfig 
+
+#wlp0s20f3 is my network interface name
+
 ```
 
 
