@@ -22,7 +22,7 @@
 
   ifconfig 
 
-#wlp0s20f3 is my network interface name
+ #wlp0s20f3 is my network interface name
 
 ```
 
