@@ -21,12 +21,14 @@
  #finding network interface name and don't use the [ ] sign while executing 
 
   ifconfig 
+```
+
 
 
 ![Screenshot from 2023-07-14 19-09-41](https://github.com/eyeblech/monitor_mode/assets/78268197/ca07027e-d3b6-4e83-8624-1c3447e67db1)
 
 
-
+```bash
   airmon-ng check kill
   
   iwconfig [network interface name] mode monitor
